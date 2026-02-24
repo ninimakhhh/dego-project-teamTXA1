@@ -9,7 +9,7 @@ DEGO Course Project - Team TXA1
 \- Nino Makharadze (75057)
 \- Dalila Dores Vieira (74454)
 \- Alexandra Kriecherbauer (70081)
-\- Ferdinand Misund(71652)
+\- Ferdinand Misund (71652)
 
 \## Project Description
 
