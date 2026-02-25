@@ -4,7 +4,7 @@ DEGO Course Project - Team TXA1
 
 \# DEGO Project - Team TXA1
 
-\# # Team Members
+\## Team Members
 
 \- Nino Makharadze (75057)
 \- Dalila Dores Vieira (74454)
