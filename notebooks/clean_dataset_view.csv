@@ -398,7 +398,7 @@ app_398,"[{'category': 'Rent', 'amount': 693}, {'category': 'Dining', 'amount': 
 app_399,"[{'category': 'Groceries', 'amount': 630}]",,Dorothy Johnson,dorothy.johnson63@protonmail.com,846-62-4839,172.28.231.164,female,1983-09-17,10083,112000.0,116.0,0.31,34612.0,True,,,4.5,50000.0,
 app_400,"[{'category': 'Travel', 'amount': 181}]",,Mary Jackson,mary.jackson36@yahoo.com,760-50-5199,192.168.109.56,female,2000-06-24,30034,48000.0,0.0,0.28,5953.0,True,,,4.7,27000.0,
 app_401,"[{'category': 'Healthcare', 'amount': 355}]",,Daniel Walker,daniel.walker89@gmail.com,751-65-2036,172.27.207.134,male,1972-03-06,10038,103000.0,29.0,0.39,21830.0,False,high_dti_ratio,,,,
-app_402,"[{'category': 'Education', 'amount': 482}]",,Heather Flores,heather.flores23@mail.com,100-58-8097,172.21.176.42,female,1965-03-07,90214,88000.0,27.0,1.85,37281.0,True,,,3.2,17000.0,
+app_402,"[{'category': 'Education', 'amount': 482}]",,Heather Flores,heather.flores23@mail.com,100-58-8097,172.21.176.42,female,1965-03-07,90214,88000.0,27.0,,37281.0,True,,,3.2,17000.0,
 app_403,"[{'category': 'Transportation', 'amount': 291}]",,William Davis,william.davis38@yahoo.com,636-51-1389,192.168.227.127,male,1977-01-19,10054,138000.0,96.0,0.09,55499.0,False,algorithm_risk_score,,,,
 app_404,"[{'category': 'Insurance', 'amount': 841}, {'category': 'Fitness', 'amount': 325}]",,Thomas Mitchell,thomas.mitchell21@aol.com,543-21-6993,172.30.59.137,male,1985-11-10,10017,91000.0,31.0,0.32,2729.0,True,,,5.9,69000.0,
 app_405,"[{'category': 'Groceries', 'amount': 364}, {'category': 'Transportation', 'amount': 566}, {'category': 'Shopping', 'amount': 839}]",,Stephanie Hill,stephanie.hill77@gmail.com,694-77-8788,172.26.24.219,female,1989-09-05,90202,48000.0,13.0,0.38,964.0,False,high_dti_ratio,,,,
