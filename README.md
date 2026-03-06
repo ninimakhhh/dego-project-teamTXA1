@@ -16,7 +16,21 @@ DEGO Course Project - Team TXA1
 
 \## Project Description
 
-Credit scoring bias analysis for DEGO course .
+## Overview
+
+This report outlines the results of a data governance audit performed on NovaCred’s credit application dataset, which contains 502 records. Acting as a Data Governance Task Force, we identified and addressed data quality issues, uncovered statistically significant bias, and evaluated the system’s compliance with the GDPR and the EU AI Act.
+
+## Role
+
+Acting as a **Data Governance Task Force**, we identified and remediated data quality issues across four dimensions.
+
+## Bias Detection
+
+Detected statistically significant bias against **female** and **younger applicants**.
+
+## Compliance Assessment
+
+Assessed the system's compliance with **GDPR** and the **EU AI Act**.
 
 \## Structure
 
