@@ -280,7 +280,7 @@ app_280,,Benjamin Thomas,benjamin.thomas34@icloud.com,235-66-1824,172.17.156.231
 app_281,,Timothy Davis,timothy.davis7@outlook.com,971-87-5125,172.17.250.191,male,1988-09-06,10071,99000.0,26.0,0.29,39634.0,True,,,5.9,47000.0,,Transportation,527,37.0
 app_282,,Lisa Baker,lisa.baker23@mail.com,377-29-6956,192.168.209.25,female,1978-03-07,30017,118000.0,66.0,0.07,32286.0,False,algorithm_risk_score,,,,,Insurance,399,48.0
 app_283,,Cynthia Johnson,cynthia.johnson21@protonmail.com,321-71-4810,10.23.78.49,female,1990-12-27,10055,70000.0,5.0,0.09,34596.0,False,algorithm_risk_score,,,,,Dining,648,35.0
-app_284,,Jennifer Wilson,jennifer.wilson74@aol.com,706-77-6780,10.66.16.52,female,1996-03-13,90276,56000.0,14.0,0.08,17759.0,True,,,2.7,52000.0,,Insurance,174,29.0
+app_284,,Jennifer Wilson,jennifer.wilson74@aol.com,706-77-6780,10.66.16.52,female,1996-03-13,90276,56000.0,14.0,0.08,17759.0,True,,,2.7,52000.0,,Insurance,174,30.0
 app_285,,Elizabeth Garcia,elizabeth.garcia70@mail.com,105-34-6367,192.168.188.222,female,1987-06-28,90226,75000.0,16.0,0.17,13622.0,True,,,2.5,48000.0,,Healthcare,128,38.0
 app_286,,Brian Johnson,brian.johnson29@gmail.com,302-29-8853,192.168.53.101,male,1993-09-19,10048,85000.0,0.0,0.22,17452.0,True,,,5.4,46000.0,,Fitness,466,32.0
 app_287,,Janet Johnson,janet.johnson88@aol.com,205-59-5076,10.46.31.230,female,1980-09-19,90285,105000.0,82.0,0.35,31931.0,True,,,6.1,43000.0,,Education,571,45.0
@@ -299,7 +299,7 @@ app_299,,Samuel Gonzalez,,626-69-8549,172.29.212.150,male,1972-08-28,10054,64000
 app_300,,Ashley Scott,ashley.scott88@mail.com,638-10-7462,192.168.4.136,female,1990-06-11,10094,75000.0,0.0,0.39,40180.0,True,,,3.5,36000.0,,Travel,401,35.0
 app_301,,Susan Baker,susan.baker33@protonmail.com,462-23-1465,10.59.198.228,female,1981-03-18,90226,65000.0,50.0,0.1,28502.0,False,algorithm_risk_score,,,,,Education,115,44.0
 app_302,,James Martin,james.martin52@gmail.com,594-58-9666,10.42.101.217,male,2000-03-23,10016,60000.0,53.0,0.29,27973.0,True,,,3.0,21000.0,,Education,726,25.0
-app_303,,Catherine Smith,catherine.smith85@outlook.com,961-32-4455,192.168.65.3,female,1998-03-12,90281,41000.0,67.0,0.41,9650.0,False,algorithm_risk_score,,,,,Insurance,373,27.0
+app_303,,Catherine Smith,catherine.smith85@outlook.com,961-32-4455,192.168.65.3,female,1998-03-12,90281,41000.0,67.0,0.41,9650.0,False,algorithm_risk_score,,,,,Insurance,373,28.0
 app_304,,Pamela Nelson,pamela.nelson7@aol.com,117-67-6540,10.224.21.213,female,1981-08-06,90208,106000.0,69.0,0.2,51392.0,False,algorithm_risk_score,,,,,Utilities,62,44.0
 app_305,,Mark Hernandez,mark.hernandez8@hotmail.com,460-68-4910,192.168.94.129,male,1984-04-09,10084,100000.0,30.0,0.07,44145.0,True,,,5.6,49000.0,,Education,629,41.0
 app_306,,Anna White,anna.white6@gmail.com,757-27-8131,10.26.176.56,female,1978-07-26,90227,106000.0,80.0,0.29,63560.0,True,,,3.1,57000.0,,Insurance,490,47.0
@@ -309,7 +309,7 @@ app_309,,Patricia Carter,patricia.carter75@gmail.com,392-82-4407,192.168.231.120
 app_310,,Jessica Campbell,jessica.campbell45@protonmail.com,559-35-6495,172.30.195.170,female,1990-03-06,90284,63000.0,27.0,0.37,18949.0,True,,,5.9,50000.0,,Utilities,451,36.0
 app_311,,Anna Jones,anna.jones21@gmail.com,439-27-7275,172.18.235.175,female,2001-10-02,90234,85432.789123,22.0,0.43,11285.0,True,,,4.2,44000.0,,Groceries,716,24.0
 app_312,,Donald Rodriguez,donald.rodriguez39@protonmail.com,125-28-8331,172.17.36.15,male,1995-03-11,10079,80000.0,0.0,0.39,12438.0,True,,,3.3,23000.0,,Utilities,530,31.0
-app_313,,Laura Jones,laura.jones25@yahoo.com,473-60-3268,10.199.251.176,female,1991-03-14,90298,112000.0,15.0,0.08,39223.0,True,,,4.6,52000.0,,Transportation,851,34.0
+app_313,,Laura Jones,laura.jones25@yahoo.com,473-60-3268,10.199.251.176,female,1991-03-14,90298,112000.0,15.0,0.08,39223.0,True,,,4.6,52000.0,,Transportation,851,35.0
 app_314,,Elizabeth Sanchez,elizabeth.sanchez94@outlook.com,850-13-2311,192.168.165.218,female,1996-01-03,90266,73000.0,31.0,0.3,19081.0,False,algorithm_risk_score,,,,,Education,449,30.0
 app_315,,Matthew Campbell,matthew.campbell38@hotmail.com,384-63-3991,172.30.8.110,male,1977-07-31,10027,81000.0,47.0,0.23,30944.0,False,algorithm_risk_score,,,,,Travel,760,48.0
 app_316,,Paul Brown,paul.brown98@aol.com,413-70-1353,172.17.253.4,male,1989-02-07,10003,74000.0,16.0,0.3,25959.0,False,insufficient_credit_history,,,,,Entertainment,774,37.0
@@ -382,7 +382,7 @@ app_382,,Charles White,charles.white70@aol.com,160-88-7527,192.168.185.92,male,1
 app_383,,Richard Carter,richard.carter61@protonmail.com,893-66-4336,10.214.83.104,male,1992-09-01,10058,62000.0,0.0,0.38,23113.0,True,,,4.9,43000.0,,Shopping,452,33.0
 app_384,,Joshua Walker,joshua.walker25@hotmail.com,556-25-7621,172.28.91.31,male,1997-02-27,10004,46000.0,3.0,0.06,9529.0,True,,,2.6,60000.0,,Groceries,415,29.0
 app_385,,Sharon Thomas,sharon.thomas34@mail.com,229-81-3457,172.31.31.1,female,1979-12-24,90210,86000.0,44.0,0.39,27401.0,True,,,5.0,76000.0,,Shopping,98,46.0
-app_386,,Angela Carter,angela.carter72@gmail.com,961-42-2857,172.21.133.119,female,1968-03-20,90283,84000.0,96.0,0.35,41312.0,True,,,4.7,66000.0,,Rent,350,57.0
+app_386,,Angela Carter,angela.carter72@gmail.com,961-42-2857,172.21.133.119,female,1968-03-20,90283,84000.0,96.0,0.35,41312.0,True,,,4.7,66000.0,,Rent,350,58.0
 app_387,,Kimberly Clark,kimberly.clark21@aol.com,461-84-7853,10.72.175.55,female,1986-09-17,90243,83000.0,46.0,0.41,17222.0,True,,,5.4,23000.0,,Dining,514,39.0
 app_388,,Amanda Johnson,amanda.johnson38@protonmail.com,152-84-2809,172.18.118.41,female,1993-01-03,90296,100000.0,8.0,0.22,15898.0,False,algorithm_risk_score,,,,,Entertainment,259,33.0
 app_389,,Kevin Allen,kevin.allen67@icloud.com,769-78-5087,192.168.162.66,male,2001-04-30,10001,51000.0,12.0,0.33,17638.0,True,,,4.6,70000.0,,Transportation,337,24.0
