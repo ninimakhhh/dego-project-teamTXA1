@@ -70,7 +70,7 @@ app_068,,Emily Lopez,,641-36-7605,172.19.231.218,female,1993-09-05,90282,75000.0
 app_069,,Stephanie Allen,stephanie.allen32@mail.com,916-13-8007,192.168.98.191,female,1961-04-14,90237,98000.0,93.0,0.25,11645.0,False,algorithm_risk_score,,,,,Entertainment,540,64.0
 app_070,,Karen Rodriguez,karen.rodriguez76@yahoo.com,809-96-3820,172.22.141.14,female,1980-09-02,90292,121000.0,59.0,0.43,24655.0,False,algorithm_risk_score,,,,,Dining,168,45.0
 app_071,,Debra Wilson,debra.wilson10@mail.com,542-49-2109,192.168.24.61,female,1978-02-03,90208,134000.0,69.0,0.07,72178.0,True,,,3.8,54000.0,,Rent,877,48.0
-app_072,,Kimberly Anderson,kimberly.anderson44@mail.com,534-80-4167,172.23.107.141,female,1998-03-14,30044,65000.0,20.0,0.28,19076.0,False,insufficient_credit_history,,,,,Travel,388,27.0
+app_072,,Kimberly Anderson,kimberly.anderson44@mail.com,534-80-4167,172.23.107.141,female,1998-03-14,30044,65000.0,20.0,0.28,19076.0,False,insufficient_credit_history,,,,,Travel,388,28.0
 app_073,,Susan Flores,susan.flores83@gmail.com,470-84-5617,10.4.117.75,female,1985-02-02,90252,97000.0,60.0,0.08,30412.0,True,,,4.8,51000.0,,Transportation,518,41.0
 app_074,,Paul Flores,paul.flores81@hotmail.com,385-49-5779,192.168.22.86,male,1999-03-28,10033,39000.0,82.0,0.19,12904.0,False,low_income,,,,,Alcohol,194,26.0
 app_076,,Sarah Taylor,sarah.taylor74@icloud.com,773-71-1401,172.27.159.52,female,1990-12-28,90285,66000.0,35.0,0.43,13607.0,False,insufficient_credit_history,,,,,Utilities,801,35.0
@@ -206,7 +206,7 @@ app_205,,Anna Rodriguez,anna.rodriguez64@hotmail.com,676-49-1041,10.244.192.51,f
 app_206,,Eric Lopez,eric.lopez71@hotmail.com,777-10-2991,172.31.144.149,male,1963-01-29,10003,72000.0,44.0,0.19,15112.0,False,algorithm_risk_score,wedding,,,,Education,523,63.0
 app_207,,Betty White,betty.white53@gmail.com,633-70-2315,10.102.66.189,female,2000-06-20,90201,62000.0,17.0,0.32,29372.0,False,algorithm_risk_score,vacation,,,,Gambling,679,25.0
 app_208,,James Martin,james.martin69@hotmail.com,155-19-6776,172.17.130.224,male,1966-10-28,10061,97000.0,92.0,0.34,21594.0,True,,education,2.8,26000.0,,Fitness,795,59.0
-app_209,,Charles Jackson,charles.jackson70@gmail.com,725-13-6067,10.88.153.43,male,1988-03-16,10010,106000.0,51.0,0.15,51382.0,True,,moving,5.2,59000.0,,Healthcare,608,37.0
+app_209,,Charles Jackson,charles.jackson70@gmail.com,725-13-6067,10.88.153.43,male,1988-03-16,10010,106000.0,51.0,0.15,51382.0,True,,moving,5.2,59000.0,,Healthcare,608,38.0
 app_210,,Pamela Campbell,pamela.campbell91@outlook.com,719-88-4590,10.113.208.213,female,1983-06-19,90261,66000.0,18.0,0.42,41892.0,True,,medical,4.8,40000.0,,Entertainment,241,42.0
 app_211,,Barbara Martin,barbara.martin84@mail.com,112-31-7412,172.28.207.224,female,1988-08-19,90222,112000.0,75.0,0.08,62775.0,False,algorithm_risk_score,education,,,,Groceries,136,37.0
 app_212,,Amy Flores,amy.flores63@outlook.com,654-72-8456,172.17.7.50,female,1997-12-09,90231,50000.0,25.0,0.2,20787.0,False,algorithm_risk_score,personal,,,,Rent,81,28.0
@@ -297,7 +297,7 @@ app_297,,Daniel Green,daniel.green70@gmail.com,845-77-4845,172.29.27.236,male,19
 app_298,,Eric Perez,eric.perez81@hotmail.com,610-35-3744,172.16.112.87,male,1962-04-27,10089,94000.0,129.0,0.4,44612.0,True,,,3.5,57000.0,,Groceries,825,63.0
 app_299,,Samuel Gonzalez,,626-69-8549,172.29.212.150,male,1972-08-28,10054,64000.0,58.0,0.18,23101.0,False,algorithm_risk_score,,,,,Groceries,531,53.0
 app_300,,Ashley Scott,ashley.scott88@mail.com,638-10-7462,192.168.4.136,female,1990-06-11,10094,75000.0,0.0,0.39,40180.0,True,,,3.5,36000.0,,Travel,401,35.0
-app_301,,Susan Baker,susan.baker33@protonmail.com,462-23-1465,10.59.198.228,female,1981-03-18,90226,65000.0,50.0,0.1,28502.0,False,algorithm_risk_score,,,,,Education,115,44.0
+app_301,,Susan Baker,susan.baker33@protonmail.com,462-23-1465,10.59.198.228,female,1981-03-18,90226,65000.0,50.0,0.1,28502.0,False,algorithm_risk_score,,,,,Education,115,45.0
 app_302,,James Martin,james.martin52@gmail.com,594-58-9666,10.42.101.217,male,2000-03-23,10016,60000.0,53.0,0.29,27973.0,True,,,3.0,21000.0,,Education,726,25.0
 app_303,,Catherine Smith,catherine.smith85@outlook.com,961-32-4455,192.168.65.3,female,1998-03-12,90281,41000.0,67.0,0.41,9650.0,False,algorithm_risk_score,,,,,Insurance,373,28.0
 app_304,,Pamela Nelson,pamela.nelson7@aol.com,117-67-6540,10.224.21.213,female,1981-08-06,90208,106000.0,69.0,0.2,51392.0,False,algorithm_risk_score,,,,,Utilities,62,44.0
