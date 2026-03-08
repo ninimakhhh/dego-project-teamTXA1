@@ -33,6 +33,8 @@ This report outlines the results of a data governance audit performed on NovaCre
     - 02-bias-analysis.ipynb - The bias analysis file examines algorithmic fairness through four components: Gender Disparate Impact, Age-Based Discrimination Patterns, Proxy Variable Analysis, and Interaction Effects Between Attributes, assessing disparities in approval outcomes and identifying potential proxy-driven bias.
     - 03_privacy_demo.ipynb - This file addresses the privacy and governance obligations triggered by the findings, noting that credit scoring is classified as a high-risk AI system under the EU AI Act (Annex III, No. 5b) and therefore must comply with both GDPR and AI Act requirements. It includes sections on Identification of Personal Data & Classification, Privacy Risk Mitigation, Pseudonymization, GDPR Compliance Mapping, Governance Gaps, and Governance Recommendations.
 
+* ‘ presentation /‘ - Google Drive link for presentation and video.
+
 * ‘ reports /‘ - All output figures are automatically saved to the dictionary.
 
 * ‘ src /‘ - Python source code
